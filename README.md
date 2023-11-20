@@ -17,3 +17,6 @@ The Profile page renders a Top navigation bar along with coverpic and profile pi
 
 All the components are organised inside components folder.The two pages are inside the pages folder and for the Context(userContext) of user state, it is inside the Context folder.
 
+Libraries Used :
+react-router-dom,axios,icons,tailwindcss
+
